@@ -113,19 +113,19 @@ const AboutPage = () => {
             <div>
               <h2 className="text-3xl font-bold mb-6">Nossa Missão</h2>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
-                luctus malesuada metus, id consequat sapien tempus sed. Sed
-                auctor augue sit amet sodales hendrerit. Aenean malesuada
-                gravida varius. Integer suscipit elit et congue lobortis. Nullam
-                sodales erat eu euismod tincidunt. Pellentesque eu nunc rhoncus,
-                ornare nisi non, imperdiet metus. Etiam posuere porttitor
-                varius.
+                Nosso objetivo é oferecer recursos e conhecimentos que capacitem
+                os idosos a compreender e gerenciar suas finanças com segurança
+                e confiança. Acreditamos que a Educação Financeira é uma
+                ferramenta essencial para fortalecer a independência, melhorar a
+                qualidade de vida e proporcionar bem-estar em todas as fases da
+                maturidade.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Morbi ultrices placerat ornare. Curabitur elementum venenatis
-                eros, et posuere tellus lobortis sit amet. Nulla id est porta,
-                hendrerit neque at, elementum diam. Pellentesque lectus lectus,
-                dapibus eu dui nec.
+                Por meio de práticas acessíveis e reflexões práticas, buscamos
+                ajudar os idosos a tomar decisões financeiras informadas,
+                enfrentar desafios econômicos do dia a dia e aproveitar as
+                oportunidades que trazem benefícios para uma vida financeira
+                equilibrada e sustentável.
               </p>
             </div>
             <Card className="bg-gradient-to-br from-blue-50 to-teal-50 dark:from-blue-950/20 dark:to-teal-950/20 border-0">
@@ -169,8 +169,7 @@ const AboutPage = () => {
           <div className="text-center mb-16">
             <h2 className="text-3xl font-bold mb-4">Nossos Valores</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              The principles that guide our research methodology and
-              collaborative approach.
+              Os princípios que guiam nossa pesquisa.
             </p>
           </div>
 
@@ -201,10 +200,14 @@ const AboutPage = () => {
       <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold mb-4">Meet Our Team</h2>
+            <h2 className="text-3xl font-bold mb-4">Conheça Nossa Equipe</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Dedicated researchers and mathematicians working together to
-              advance the field.
+              Somos estudantes do Curso de Bacharelado em Sistemas de Informação
+              da Universidade Estadual de Goiás (UEG), comprometidos com a
+              transformação social através do conhecimento. Movidos pela vontade
+              de fazer a diferença, integramos o Projeto de Extensão “Educação
+              Financeira para Idosos” , coordenado pela Profª Elke Dias de Sousa{" "}
+              <a>sousaelke@ueg.br</a>.
             </p>
           </div>
 
