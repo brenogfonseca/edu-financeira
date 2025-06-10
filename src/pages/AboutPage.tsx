@@ -111,36 +111,46 @@ const AboutPage = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
+              <h2 className="text-3xl font-bold mb-6">Nossa Missão</h2>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
-                To advance the field of mathematics through rigorous research,
-                innovative computational methods, and collaborative
-                problem-solving approaches. We aim to bridge the gap between
-                theoretical mathematics and practical applications.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+                luctus malesuada metus, id consequat sapien tempus sed. Sed
+                auctor augue sit amet sodales hendrerit. Aenean malesuada
+                gravida varius. Integer suscipit elit et congue lobortis. Nullam
+                sodales erat eu euismod tincidunt. Pellentesque eu nunc rhoncus,
+                ornare nisi non, imperdiet metus. Etiam posuere porttitor
+                varius.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Our work spans multiple domains including algorithmic
-                optimization, statistical modeling, numerical analysis, and
-                machine learning applications to mathematical problems.
+                Morbi ultrices placerat ornare. Curabitur elementum venenatis
+                eros, et posuere tellus lobortis sit amet. Nulla id est porta,
+                hendrerit neque at, elementum diam. Pellentesque lectus lectus,
+                dapibus eu dui nec.
               </p>
             </div>
             <Card className="bg-gradient-to-br from-blue-50 to-teal-50 dark:from-blue-950/20 dark:to-teal-950/20 border-0">
               <CardHeader>
-                <CardTitle className="text-2xl">Research Impact</CardTitle>
+                <CardTitle className="text-2xl">Impacto da Pesquisa</CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="flex justify-between items-center">
-                  <span className="text-muted-foreground">Publications</span>
+                  <span className="text-muted-foreground">
+                    Workshops Realizados
+                  </span>
                   <span className="text-2xl font-bold text-blue-600">50+</span>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="text-muted-foreground">Citations</span>
+                  <span className="text-muted-foreground">
+                    Idosos Participantes
+                  </span>
                   <span className="text-2xl font-bold text-blue-600">
                     1,200+
                   </span>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="text-muted-foreground">Conferences</span>
+                  <span className="text-muted-foreground">
+                    Projetos Realizados
+                  </span>
                   <span className="text-2xl font-bold text-blue-600">30+</span>
                 </div>
                 <div className="flex justify-between items-center">
@@ -157,7 +167,7 @@ const AboutPage = () => {
       <section className="py-20 bg-muted/50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold mb-4">Our Core Values</h2>
+            <h2 className="text-3xl font-bold mb-4">Nossos Valores</h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
               The principles that guide our research methodology and
               collaborative approach.
